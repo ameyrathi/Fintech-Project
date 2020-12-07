@@ -1,4 +1,5 @@
 # is-444
+Developed a fintech platform which allows customers to purchase various insurance products by extensively using Banking and Insurance APIs.
 
 ## Project setup
 ```
