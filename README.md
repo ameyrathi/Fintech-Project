@@ -1,4 +1,4 @@
-# is-444
+# IS 444: Digital Banking Architecture
 Developed a fintech platform which allows customers to purchase various insurance products by extensively using Banking and Insurance APIs.
 
 ## Project setup
